@@ -26,6 +26,7 @@
 
 .time {
     height: 2rem;
+    top: 1%;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
